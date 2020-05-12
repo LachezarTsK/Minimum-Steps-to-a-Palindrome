@@ -12,8 +12,8 @@ public class Solution {
   }
 
   /**
-   * Calculates the minimum number of chars, added to the end ot the word, in order to compose a
-   * Palindrome.
+   * Calculates the minimum number of chars, added to the end ot the word, 
+   * in order to compose a Palindrome.
    *
    * @return An integer, representing this minimum number of chars.
    */
